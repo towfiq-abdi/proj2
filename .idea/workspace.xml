@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaa68346-c65f-4ee0-9bd8-e55bc005e067" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1onSY9PyUuMcy0rlgG0yTdeNkA0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Source">
+    <configuration name="Source" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Source" />
+      <module name="proj245" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="triall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="triall" />
+      <module name="proj245" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Source" />
+        <item itemvalue="Application.triall" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaa68346-c65f-4ee0-9bd8-e55bc005e067" name="Default Changelist" comment="" />
+      <created>1613920905547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613920905547</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Console" timestamp="1614022684404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Console/0.0.1366.728@0.0.1366.728" timestamp="1614022684404" />
+    <state width="1322" height="151" key="GridCell.Tab.0.bottom" timestamp="1614068300386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614068300386" />
+    <state width="1322" height="151" key="GridCell.Tab.0.center" timestamp="1614068300385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614068300385" />
+    <state width="1322" height="151" key="GridCell.Tab.0.left" timestamp="1614068300385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614068300385" />
+    <state width="1322" height="151" key="GridCell.Tab.0.right" timestamp="1614068300386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614068300386" />
+    <state x="359" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1614019427415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1614019427415" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1614068232153">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1614068232153" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1614028046628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1614028046628" />
+  </component>
+</project>
